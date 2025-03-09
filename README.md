@@ -2,8 +2,8 @@
 
 YaraShield is a powerful malware detection tool that leverages YARA rules to identify various threats in files. It provides a user-friendly GUI interface for scanning files and managing YARA rules.
 
-![YaraShield Screenshot 1](./Images/Screenshot%201.png)
-![YaraShield Screenshot 2](./Images/Screenshot%202.png)
+![YaraShield Screenshot 1](./Images/Screenshot%202.png)
+![YaraShield Screenshot 2](./Images/Screenshot%201.png)
 
 ## Features
 
